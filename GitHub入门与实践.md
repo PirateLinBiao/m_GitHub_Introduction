@@ -1,3 +1,4 @@
+
 # GitHub入门与实践
 
 1. [欢迎来到 GitHub 的世界](/Users/Gaowei/m_GitHub_Introduction/1.欢迎来到GitHub的世界.md)
@@ -59,4 +60,5 @@
     Gist 能帮助开发者轻松与其他人共享简单的代码示例或日志，我们将 在这部分对 Gist 进行讲解。利用 Gist 可以轻松管理日常的小代码片段。
 
 
-
+## 进度管理
+在GitHub的issue中实施进度控制。
